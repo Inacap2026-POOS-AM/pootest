@@ -1,3 +1,3 @@
 # pootest
 
-este es mi *primer readme*
+este es mi **primer readme**
